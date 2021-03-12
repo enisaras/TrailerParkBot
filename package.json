@@ -1,0 +1,19 @@
+{
+  "name": "trailerparkbot",
+  "version": "1.0.0",
+  "description": "Discord bot that runs the Trailer Park Boys server",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enisaras/TrailerParkBot.git"
+  },
+  "author": "Enis Aras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enisaras/TrailerParkBot/issues"
+  },
+  "homepage": "https://github.com/enisaras/TrailerParkBot#readme"
+}
