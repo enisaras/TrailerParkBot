@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/enisaras/TrailerParkBot/issues"
   },
-  "homepage": "https://github.com/enisaras/TrailerParkBot#readme"
+  "homepage": "https://github.com/enisaras/TrailerParkBot#readme",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^12.5.1",
+    "dot-env": "^0.0.1",
+    "dotenv": "^8.2.0",
+    "fs": "^0.0.1-security"
+  }
 }
