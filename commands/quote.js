@@ -22,7 +22,7 @@ module.exports = {
             message.channel.send(`${random_bubbles["text"]}`);
         }
         else if(args[0] == "Julian"){
-            let krandom_julian = random_item(data["quotes"]["Julian"]);
+            let random_julian = random_item(data["quotes"]["Julian"]);
             message.channel.send(`${random_julian["text"]}`);
         }
 	},
